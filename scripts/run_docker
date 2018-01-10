@@ -1,0 +1,4 @@
+#
+# Run docker image of datascience-notebook
+#
+docker run -ti --rm -p8888:8888 -v "$PWD"/notebooks:/home/jovyan jupyter/datascience-notebook

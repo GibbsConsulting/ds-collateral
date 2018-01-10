@@ -70,6 +70,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Notebooks running in docker image
+*/.ipython/*
+*/.local/*
+
 # pyenv
 .python-version
 
