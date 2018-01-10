@@ -73,6 +73,7 @@ target/
 # Notebooks running in docker image
 */.ipython/*
 */.local/*
+*/.jupyter/*
 
 # pyenv
 .python-version
